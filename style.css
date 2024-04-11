@@ -3,12 +3,18 @@
 }
 .n55{
     text-align: center;
+    font-size: 50%;
 } 
 .cardapio1 {
     text-align: center ;
-    font-size: 23px;
+    font-size: 26px;
     height: 80px;
 
+}
+.NossaProductLine{
+    text-align: center ;
+    font-size: 26px;
+    height: 10px;
 }
 .pq {
     text-align: center;
@@ -16,6 +22,7 @@
 }
 .n3 {
     height: 70px;
+   
 }
 
 .p1 {
@@ -60,6 +67,7 @@
 .qw{
     display: flex;
     justify-content: space-around;
+    width: 100%;
 }
 .shop1{
     font-size:20px;
@@ -222,7 +230,7 @@
 .hr{
     display: flex;
     justify-content: space-around ;
-    
+    width: 100%;
 }
 .Sobremesas1{
     text-align: center;
@@ -277,4 +285,262 @@
     display: flex;
     justify-content: space-around ;
     padding: 20px
+}
+.docess1{
+    display: flex;
+    justify-content: space-around ;
+    padding: 20px;
+}
+.height{
+    height: 80px;
+}
+.heightg{
+    height: 50px;
+}
+.docess2{
+    display: flex;
+    justify-content: space-around ;
+    padding: 20px;
+}
+.height1{
+    height:50px;
+}
+.shopp3{
+    display: flex;
+    justify-content: space-around ;
+    padding: 20px;
+}
+.shopp4{
+    display: flex;
+    justify-content: space-around ;
+    padding: 20px;
+}
+.height00{
+    display: flex;
+    justify-content: space-around ;
+    padding: 20px;
+    
+}
+.height33{
+    display: flex;
+    justify-content: space-around ;
+    padding: 10px;
+    
+}
+.nomen11{
+   text-align: center;
+}
+.n44{
+    border: 2px solid black;
+    border-radius: 15px;
+}
+.n11:hover {
+    border: 1px solid black;
+    border-radius: 15px;
+}
+.t1{
+    border: 2px solid black;
+    border-radius: 15px;
+}
+.c1{
+    border: 2px solid black;
+    border-radius: 15px;
+}
+.c3 {
+    border: 2px solid black;
+    border-radius: 15px;
+}
+.c4 {
+    border: 2px solid black;
+    border-radius: 15px;
+}
+.c5 {
+    border: 2px solid black;
+    border-radius: 15px;
+}
+
+.b1:hover {
+    border: 1px solid black;
+    border-radius: 15px;
+}
+.b2:hover {
+    border: 1px solid black;
+    border-radius: 15px;
+}
+.b3:hover {
+    border: 1px solid black;
+    border-radius: 15px;
+}
+.b4:hover {
+    border: 1px solid black;
+    border-radius: 15px;
+}
+.b5:hover {
+    border: 1px solid black;
+    border-radius: 15px;
+}
+.ins{
+    display: flex;
+    justify-content: space-around ;
+    padding: 20px;
+}
+.height111{
+    height: 40px;
+}
+.insta:hover {
+    border: 1px solid black;
+    border-radius: 15px;
+}
+.youtube:hover {
+    border: 1px solid black;
+    border-radius: 15px;
+}
+.spot:hover {
+    border: 1px solid black;
+    border-radius: 15px;
+}
+.nomen1g{
+   text-align: center;
+}
+.qw{
+    text-align: left;
+}
+.hr{
+    text-align:center;
+}
+.mais1:hover {
+    border: 1px solid black;
+    border-radius: 15px;
+}
+.mokaclube:hover {
+    border: 1px solid black;
+    border-radius: 15px;
+}
+.gocoffee:hover {
+    border: 1px solid black;
+    border-radius: 15px;
+}
+.cafelucca:hover {
+    border: 1px solid black;
+    border-radius: 15px;
+} 
+.sobi{
+    display: flex;
+    justify-content: space-around ;
+    padding: 20px;
+}
+
+.juntaagua{
+    border: 2px solid black;
+    border-radius: 15px;
+}
+.juntaagua{
+    display:flex;
+    justify-content:space-around;
+    padding:90px;
+}
+.aguaa2{
+    text-align: center;
+}
+
+
+.nude2{
+    border: 2px solid black;
+    border-radius: 15px;
+}
+.nude2{
+    display:flex;
+    justify-content:space-around;
+    padding:50px;
+}
+.nude55{
+    text-align: center;
+}
+.agua3{
+    text-align: center;
+}
+.aguacajalll{
+    border: 2px solid black;
+    border-radius: 15px;
+}
+.aguacajalll{
+    display:flex;
+    justify-content:space-around;
+    padding:50px;
+}
+.aguacaja2{
+    text-align: center;
+}
+.Lemonaid5{
+    border: 2px solid black;
+    border-radius: 15px;
+}
+.Lemonaid5{
+    display:flex;
+    justify-content:space-around;
+    padding:50px;
+}
+.Lemonaid22{
+    text-align: center;
+}
+.sucoamarelo22{
+    border: 2px solid black;
+    border-radius: 15px;
+}
+.sucoamarelo22{
+    display:flex;
+    justify-content:space-around;
+    padding:50px;
+}
+.sucoamarelo20{
+    text-align: center;
+}
+.sucoverdep{
+    border: 2px solid black;
+    border-radius: 15px;
+}
+.sucoverdep{
+    display:flex;
+    justify-content:space-around;
+    padding:50px;
+}
+.sucoverdeppp{
+    text-align: center;
+    }
+
+.v602{
+    border: 2px solid black;
+    border-radius: 15px;
+}
+.v602{
+    display:flex;
+    justify-content:space-around;
+    padding:50px;
+}
+.v603{
+    text-align: center;
+}
+.v60g1{
+    border: 2px solid black;
+    border-radius: 15px;
+}
+.v60g1{
+    display:flex;
+    justify-content:space-around;
+    padding:50px;
+}
+.v60g3{
+    text-align: center;
+}
+.v60m2{
+    border: 2px solid black;
+    border-radius: 15px;
+}
+.v60m2{
+    display:flex;
+    justify-content:space-around;
+    padding:50px;
+}
+.v60m4{
+    text-align: center;
 }
